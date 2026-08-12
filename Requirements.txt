@@ -1,0 +1,4 @@
+Requirements To Run This Project
+1.Streamlit
+2.Pdfplumber
+3.Pypdf
