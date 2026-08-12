@@ -1,4 +1,4 @@
 Requirements To Run This Project
 1.streamlit
 2.pdfplumber
-3.pypdf
+
